@@ -39,7 +39,7 @@ Data analysts and students learning no-code/low-code data pipelines. KNIME's vis
 ## Project Structure
 
 ```
-├── 0010-0001.knwf                       # KNIME workflow file (open this)
+├── PIPELINE.knwf                       # KNIME workflow file (open this)
 ├── Raw Table.xls                        # Original raw data
 ├── Category.csv / SubCategory.csv       # Product taxonomy
 ├── Customer.csv / Segment.csv           # Customer data
